@@ -1,12 +1,4 @@
-a = 'Akhilesh'
-<<<<<<< HEAD
-b = ' is Anand Kumar'
-c = ' good'
-s = a+b+c
+a = 2
+b = 5
+s = a + b
 print(s)
-=======
-b = ' is Bhaiya Kumar'
-s = a+b
-print(s)
-print('Aniket')
->>>>>>> aniket
