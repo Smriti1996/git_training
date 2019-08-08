@@ -1,4 +1,4 @@
-a = 2
-b = 5
-s = a + b
-print(s)
+a = 'akhilesh'
+b = ' aniket'
+res = a + b
+print(res)
